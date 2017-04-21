@@ -1,0 +1,17 @@
+{
+  "name": "CompanyDB",
+  "version": "1.0.0",
+  "description": "CompanyDB API",
+  "main": "index.js",
+  "repository": {},
+  "author": "Henning Horn",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "bookshelf": "^0.10.3",
+    "bookshelf-modelbase": "^2.10.3",
+    "express": "^4.15.2",
+    "knex": "^0.12.9",
+    "pg": "^6.1.5"
+  }
+}
